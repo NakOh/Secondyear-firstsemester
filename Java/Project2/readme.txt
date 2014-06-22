@@ -1,0 +1,1 @@
+sourceFile에 있는 내용을 일정 단어를 찾아서 원하는 단어로 바꾼뒤 targetFile에 저장 혹은 targerFile이 없는 경우 sourceFile 자체변환
