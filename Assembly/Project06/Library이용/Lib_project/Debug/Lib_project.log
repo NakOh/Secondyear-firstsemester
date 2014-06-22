@@ -1,0 +1,19 @@
+﻿빌드 시작: 2014-05-16 오전 11:30:36
+     1>2 노드의 "c:\Users\fallinlove\documents\visual studio 2010\Projects\Test2\Lib_project\Lib_project.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Lib_project.unsuccessfulbuild"을(를) 만들고 있습니다.
+       _MASM:
+         Assembling [Inputs]...
+         cmd.exe /C "C:\Users\FallinLove\AppData\Local\Temp\tmp7f423ee28b93447a89f825360aa13f41.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\LibEx.obj" /W3 /errorReport:prompt  /Ta..\Test2\LibEx.asm
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"c:\users\fallinlove\documents\visual studio 2010\Projects\Test2\Debug\Lib_project.lib" /NOLOGO Debug\LibEx.obj
+         Lib_project.vcxproj -> c:\users\fallinlove\documents\visual studio 2010\Projects\Test2\Debug\Lib_project.lib
+       FinalizeBuildStatus:
+         "Debug\Lib_project.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Lib_project.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"c:\Users\fallinlove\documents\visual studio 2010\Projects\Test2\Lib_project\Lib_project.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.40

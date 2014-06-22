@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibEX_MainProject", "LibEX_MainProject\LibEX_MainProject.vcxproj", "{3D2B8CA5-F5A4-4D2F-B011-1A1A1F0E4993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2B8CA5-F5A4-4D2F-B011-1A1A1F0E4993}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D2B8CA5-F5A4-4D2F-B011-1A1A1F0E4993}.Debug|Win32.Build.0 = Debug|Win32
+		{3D2B8CA5-F5A4-4D2F-B011-1A1A1F0E4993}.Release|Win32.ActiveCfg = Release|Win32
+		{3D2B8CA5-F5A4-4D2F-B011-1A1A1F0E4993}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
